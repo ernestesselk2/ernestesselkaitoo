@@ -1,9 +1,10 @@
 ---
-layout: archive
-permalink: /machine-learning/
-title: "Machine Learning Posts"
+layout: posts
+permalink: /data-wrangling/
+title: "Data Wrangling projects"
 author_profile: true
 header:
-  image: "/images/IMG-20200326-WA0005.jpg"
+  image: "/images/fort point.png"
 ---
-  the amn is here
+
+

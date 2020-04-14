@@ -2,6 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  images: "/images/IMG-20200327-WA0004.jpg"
+  image: "/images/zakim.jpg"
 ---
-  the amn is here
+
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
